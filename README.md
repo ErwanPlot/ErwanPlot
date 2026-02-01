@@ -18,7 +18,7 @@ You'll find bellow the technical skills i have learned so far :
 
 ## Featured Projects
 
-These are mt projects ( personnal and during my schoolarship ) :
+These are my projects ( personnal and during my schoolarship ) :
 
 | Projects | Description | Tech Stack |
 | :--- | :--- | :--- |
