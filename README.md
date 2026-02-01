@@ -20,7 +20,7 @@ You'll find bellow the technical skills i have learned so far :
 
 These are my projects (personal and during my scholarship):
 
-* **[InfoCine](https://github.com/ErwanPlot/1WEBD-Project-ErwanPLOT.git)** 🎬
+* **[InfoCine](https://github.com/ErwanPlot/Projet-1WEBD.git)** 🎬
     * School project, the objective was to create a site presenting films from an API using JavaScript.
     * **Tech:** JS, HTML, CSS
 
