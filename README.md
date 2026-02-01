@@ -1,5 +1,5 @@
 <h1 align="center">Hi there my name's Erwan !</h1>
-<h3 align="center">I'm a first year informatic student at SUPINFO School in Tours, France 🇫🇷</h3>
+<h3 align="center">I'm a first year informatic student at SUPINFO School in Tours, France</h3>
 
 ---
 
