@@ -16,12 +16,12 @@ You'll find bellow the technical skills i have learned so far :
 
 ---
 
-## Featured Projects
+## 🛠️ Featured Projects
 
-These are my projects ( personnal and during my schoolarship ) :
+These are my projects (personal and during my scholarship):
 
-| Projects | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[InfoCine]([https://github.com/YourUsername/uhc-plugin](https://github.com/ErwanPlot/1WEBD-Project-ErwanPLOT.git))** | School project, the objective was to create a site presenting films from an api using JavaScript | JS, HTML, CSS |
+* **[InfoCine](https://github.com/ErwanPlot/1WEBD-Project-ErwanPLOT.git)** 🎬
+    * School project, the objective was to create a site presenting films from an API using JavaScript.
+    * **Tech:** JS, HTML, CSS
 
----
+ ---
