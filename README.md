@@ -5,6 +5,8 @@
 
 ## Technical Skills
 
+You'll find bellow the technical skills i have learned so far :
+
 | Category | Tools & Languages |
 | :--- | :--- |
 | **Main Languages** | Python, JavaScript, C, Lua |
@@ -16,6 +18,8 @@
 
 ## Featured Projects
 
+These are mt projects ( personnal and during my schoolarship ) :
+
 | Projects | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[InfoCine]([https://github.com/YourUsername/uhc-plugin](https://github.com/ErwanPlot/1WEBD-Project-ErwanPLOT.git))** | Studies project, the objective was to create a site presenting films from an api using JavaScript | JS, HTML, CSS |
@@ -23,4 +27,4 @@
 ---
 
 ## 📊 GitHub Stats
-![Your Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical)
+![My Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical)
