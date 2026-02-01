@@ -22,9 +22,6 @@ These are my projects ( personnal and during my schoolarship ) :
 
 | Projects | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[InfoCine]([https://github.com/YourUsername/uhc-plugin](https://github.com/ErwanPlot/1WEBD-Project-ErwanPLOT.git))** | Studies project, the objective was to create a site presenting films from an api using JavaScript | JS, HTML, CSS |
+| **[InfoCine]([https://github.com/YourUsername/uhc-plugin](https://github.com/ErwanPlot/1WEBD-Project-ErwanPLOT.git))** | School project, the objective was to create a site presenting films from an api using JavaScript | JS, HTML, CSS |
 
 ---
-
-## 📊 GitHub Stats
-![My Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical)
