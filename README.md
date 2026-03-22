@@ -35,8 +35,9 @@ These are my projects (personal and during my scholarship) :
 Currently working on these academic and personal challenges :
 
 * **Taupes et Compagnie** 🐹
-    * Major end-of-year project at **SUPINFO**. A complex application focusing on logic and data management.
-    * **Tech:** Python (Core logic)
+    * Major end-of-year project at **SUPINFO**. Digital adaptation of a board game designed for online multiplayer. The goal is to allow seamless gameplay across different devices.
+    * **Key features:** Game logic implementation, real-time synchronization, and cross-device compatibility.
+    * **Tech:** Python (Back-end & Logic)
  
 * **Internet Movie Database (Clone)** 🎬
     * Project developed during my latest module to learn server-side rendering and database interactions.
