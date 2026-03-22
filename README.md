@@ -1,4 +1,4 @@
-<h1 align="center">Hi there my name's Erwan alis Rwan on socials!</h1>
+<h1 align="center">Hi there my name's Erwan alias Rwan on socials!</h1>
 <h3 align="center">I'm a first year informatic student at SUPINFO School in Tours, France</h3>
 
 ---
