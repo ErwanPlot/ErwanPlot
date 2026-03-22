@@ -18,7 +18,7 @@ You'll find bellow the technical skills i have learned so far :
 
 ## 🛠️ Featured Projects
 
-These are my projects (personal and during my scholarship):
+These are my projects (personal and during my scholarship) :
 
 * **[InfoCine](https://github.com/ErwanPlot/Projet-1WEBD.git)** 🎬
     * School project, the objective was to create a site presenting films from an API using JavaScript.
@@ -29,3 +29,15 @@ These are my projects (personal and during my scholarship):
     * **Tech:** C Language, Valgrind for memory leak
 
  ---
+
+## 🚧 Projects in Progress
+
+Currently working on these academic and personal challenges :
+
+* **Taupes et Compagnie** 🐹
+    * Major end-of-year project at **SUPINFO**. A complex application focusing on logic and data management.
+    * **Tech:** Python (Core logic)
+ 
+* **Internet Movie Database (Clone)** 🎬
+    * Project developed during my latest module to learn server-side rendering and database interactions.
+    * **Tech:** PHP, MySQL (SQL queries)
