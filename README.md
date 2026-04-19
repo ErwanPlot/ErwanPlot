@@ -28,6 +28,10 @@ These are my projects (personal and during my scholarship) :
     * School project in group of 2, the objective was to create a pokemon RPG style game in the terminal, repetitives fights and "Supemon" leveling up.
     * **Tech:** C Language, Valgrind for memory leak
 
+* **[Internet Movie Database](https://github.com/ErwanPlot/1PHPD-Project)** 🎬
+    * Project developed during my latest module to learn server-side rendering and database interactions.
+    * **Tech:** PHP, MySQL (SQL queries)
+
  ---
 
 ## 🚧 Projects in Progress
@@ -39,6 +43,3 @@ Currently working on these academic and personal challenges :
     * **Key features:** Game logic implementation, real-time synchronization, and cross-device compatibility.
     * **Tech:** Python (Back-end & Logic)
  
-* **Internet Movie Database (Clone)** 🎬
-    * Project developed during my latest module to learn server-side rendering and database interactions.
-    * **Tech:** PHP, MySQL (SQL queries)
